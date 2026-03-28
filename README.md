@@ -1,12 +1,90 @@
 # OnlineExams - Mobile Examination System 📱
 
-### **Team Members**
+### **Team Members and  assigned technical roles. **
 * **Biruktawit Fiseha** — 0252/15
+*  Project Manager + Student Exam Module Developer
+           Responsibilities 1:
+                          Create and manage the GitHub repository
+                          Invite instructor as collaborator
+                          Create professional README.md
+                          Ensure all documentation is uploaded in /docs
+              Main Deliverables:
+                          GitHub repo setup + README
+                          Phase documentation updates
+            Responsibilities 2:
+                          Develop Student features:
+                                      View available exams
+                                      Start exam
+                                      Answer questions
+                                      Submit exam
+                                      Auto-save answers
+                                      Handle exam timer countdown
+                                      Prevent cheating basics (disable back during exam)
+                         Main Deliverables:
+                              Exam-taking screen
+                              Timer + question navigation
+                             Submit exam function
 * **Tsinat Zegeye** — 3709/16
-* **Meklit Tesfaye** — 2850/16 
+* UI/UX Designer + Frontend Layout Developer
+            Responsibilities:
+                          Complete Figma design (wireframes + final UI)
+                          Design app navigation flow
+                          Create UI screens in Android:
+                          Welcome screen
+                          Login/Register
+                          Dashboard (Student/Instructor)
+                          Exam list
+                          Profile screen
+             Main Deliverables:
+                         Updated Figma board
+                         XML layouts / UI components
+                         Consistent UI theme and colors
+* **Meklit Tesfaye** — 2850/16
+* Firebase Backend Developer
+         Responsibilities:
+                          Setup Firebase project
+                          Implement Firebase Authentication
+                          Login
+                          Signup
+                          Role-based access (Student/Instructor/Admin)
+                          Setup Cloud Firestore database structure
+            Create Firestore collections:
+                            users
+                            exams
+                            questions
+                            results
+            Write Firebase security rules
+                 Main Deliverables:
+                           Authentication system working
+                           Firestore database ready
+                           Backend logic for exam storage + results
 * **Tibarek Matiwos** — 4062/16
+* Exam Management Module Developer
+        Responsibilities:
+                         Develop Instructor features:
+                         Create exam
+                         Add questions (MCQ / True-False)
+                         Set exam time duration
+                         Publish exam
+                         Save exam data to Firestore
+            Main Deliverables:
+                         Exam creation module
+                         Question creation module
+                         Firestore integration for exams/questions   
 * **Nyebuony Mach** — 0661/15
 * **Bedane Mengistu** - 1413/16
+    Nyebuony & Bedane - Result & Grading Module Developer + Testing
+              Responsibilities:
+                         Implement automatic grading system
+                         Store results in Firestore
+                         Generate score summary for student
+                         Instructor can view student scores
+                         Testing the whole app + bug reporting
+               Main Deliverables:
+                         Results page
+                         Grade calculation logic
+                         Instructor result dashboard
+                         Testing report + bug fixes
 
 ---
 
