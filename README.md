@@ -2,7 +2,7 @@
 
 ### **Team Members and  assigned technical roles. **
 * **Biruktawit Fiseha** — 0252/15
-      Project Manager + Student Exam Module Developer
+      * Project Manager + Student Exam Module Developer
            Responsibilities 1:
                           Create and manage the GitHub repository
                           Invite instructor as collaborator
@@ -25,7 +25,7 @@
                               Timer + question navigation
                              Submit exam function
 * **Tsinat Zegeye** — 3709/16
-        UI/UX Designer + Frontend Layout Developer
+        * UI/UX Designer + Frontend Layout Developer
              Responsibilities:
                           Complete Figma design (wireframes + final UI)
                           Design app navigation flow
@@ -40,7 +40,7 @@
                          XML layouts / UI components
                          Consistent UI theme and colors
 * **Meklit Tesfaye** — 2850/16
-  Firebase Backend Developer
+   * Firebase Backend Developer
          Responsibilities:
                           Setup Firebase project
                           Implement Firebase Authentication
@@ -59,7 +59,7 @@
                            Firestore database ready
                            Backend logic for exam storage + results
 * **Tibarek Matiwos** — 4062/16
-    Exam Management Module Developer
+   * Exam Management Module Developer
         Responsibilities:
                          Develop Instructor features:
                          Create exam
@@ -73,7 +73,7 @@
                          Firestore integration for exams/questions   
 * **Nyebuony Mach** — 0661/15
 * **Bedane Mengistu** - 1413/16
-    Nyebuony & Bedane - Result & Grading Module Developer + Testing
+    * Nyebuony & Bedane - Result & Grading Module Developer + Testing
               Responsibilities:
                          Implement automatic grading system
                          Store results in Firestore
