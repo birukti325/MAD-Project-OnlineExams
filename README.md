@@ -20,7 +20,7 @@
                                       Auto-save answers
                                       Handle exam timer countdown
                                       Prevent cheating basics (disable back during exam)
-        * Main Deliverables:
+    * Main Deliverables:
                               Exam-taking screen
                               Timer + question navigation
                              Submit exam function
