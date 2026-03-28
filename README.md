@@ -2,7 +2,7 @@
 
 ### **Team Members and  assigned technical roles. **
 * **Biruktawit Fiseha** — 0252/15
-      * Project Manager + Student Exam Module Developer
+  * Project Manager + Student Exam Module Developer
            Responsibilities 1:
                           Create and manage the GitHub repository
                           Invite instructor as collaborator
@@ -25,7 +25,7 @@
                               Timer + question navigation
                              Submit exam function
 * **Tsinat Zegeye** — 3709/16
-        * UI/UX Designer + Frontend Layout Developer
+  * UI/UX Designer + Frontend Layout Developer
              Responsibilities:
                           Complete Figma design (wireframes + final UI)
                           Design app navigation flow
