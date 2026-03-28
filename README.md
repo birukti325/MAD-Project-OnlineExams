@@ -8,10 +8,10 @@
                           Invite instructor as collaborator
                           Create professional README.md
                           Ensure all documentation is uploaded in /docs
-      * Main Deliverables:
+    * Main Deliverables:
                           GitHub repo setup + README
                           Phase documentation updates
-      * Responsibilities 2:
+    * Responsibilities 2:
                           Develop Student features:
                                       View available exams
                                       Start exam
