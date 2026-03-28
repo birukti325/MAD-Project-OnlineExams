@@ -3,15 +3,15 @@
 ### **Team Members and  assigned technical roles. **
 * **Biruktawit Fiseha** — 0252/15
   * Project Manager + Student Exam Module Developer
-           * Responsibilities 1:
+    * Responsibilities 1:
                           Create and manage the GitHub repository
                           Invite instructor as collaborator
                           Create professional README.md
                           Ensure all documentation is uploaded in /docs
-             * Main Deliverables:
+      * Main Deliverables:
                           GitHub repo setup + README
                           Phase documentation updates
-           * Responsibilities 2:
+      * Responsibilities 2:
                           Develop Student features:
                                       View available exams
                                       Start exam
@@ -20,7 +20,7 @@
                                       Auto-save answers
                                       Handle exam timer countdown
                                       Prevent cheating basics (disable back during exam)
-                        * Main Deliverables:
+        * Main Deliverables:
                               Exam-taking screen
                               Timer + question navigation
                              Submit exam function
