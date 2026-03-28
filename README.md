@@ -26,7 +26,7 @@
                              Submit exam function
 * **Tsinat Zegeye** — 3709/16
   * UI/UX Designer + Frontend Layout Developer
-             * Responsibilities:
+    * Responsibilities:
                           Complete Figma design (wireframes + final UI)
                           Design app navigation flow
                           Create UI screens in Android:
@@ -35,52 +35,52 @@
                           Dashboard (Student/Instructor)
                           Exam list
                           Profile screen
-             * Main Deliverables:
+     * Main Deliverables:
                          Updated Figma board
                          XML layouts / UI components
                          Consistent UI theme and colors
 * **Meklit Tesfaye** — 2850/16
    * Firebase Backend Developer
-         * Responsibilities:
+     * Responsibilities:
                           Setup Firebase project
                           Implement Firebase Authentication
                           Login
                           Signup
                           Role-based access (Student/Instructor/Admin)
                           Setup Cloud Firestore database structure
-            * Create Firestore collections:
+    * Create Firestore collections:
                             users
                             exams
                             questions
                             results
-            * Write Firebase security rules
-                 * Main Deliverables:
+     * Write Firebase security rules
+     * Main Deliverables:
                            Authentication system working
                            Firestore database ready
                            Backend logic for exam storage + results
 * **Tibarek Matiwos** — 4062/16
    * Exam Management Module Developer
-        * Responsibilities:
+      * Responsibilities:
                          Develop Instructor features:
                          Create exam
                          Add questions (MCQ / True-False)
                          Set exam time duration
                          Publish exam
                          Save exam data to Firestore
-           * Main Deliverables:
+      * Main Deliverables:
                          Exam creation module
                          Question creation module
                          Firestore integration for exams/questions   
 * **Nyebuony Mach** — 0661/15
 * **Bedane Mengistu** - 1413/16
     * Nyebuony & Bedane - Result & Grading Module Developer + Testing
-             * Responsibilities:
+      * Responsibilities:
                          Implement automatic grading system
                          Store results in Firestore
                          Generate score summary for student
                          Instructor can view student scores
                          Testing the whole app + bug reporting
-              * Main Deliverables:
+        * Main Deliverables:
                          Results page
                          Grade calculation logic
                          Instructor result dashboard
